@@ -1,0 +1,47 @@
+.tavasz {
+
+    width: 200px;
+    
+    float: left;
+    background-image: url(t);
+    text-align: center;
+    
+    
+    }
+    .nyár {
+    
+    
+    width: 200px;
+    
+    float: left;
+    text-align: center;
+    
+    
+    clear:both
+    
+    }   
+    
+    .ősz{
+    
+    width: 200px;
+    ;
+    float: left;
+    
+    text-align: center;
+    
+    }
+    
+    .tél {
+    
+    
+    width: 200px;
+    
+    float: left;
+    
+    text-align: center;
+    
+    }
+    .tavasz:hover{transform: scale(1.1); transition: 2s;}
+    .nyár:hover{transform: scale(1.1); transition: 2s;}
+    .ősz:hover{transform: scale(1.1); transition: 2s;}
+    .tél:hover{transform: scale(1.1);transition: 2s;}
